@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/ueber-mich/layout,_N_T_/ueber-mich/page,_N_T_/ueber-mich"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/ueber-mich/__PAGE__",
+    "/ueber-mich",
+    "/_index",
+    "/_head"
+  ]
+}

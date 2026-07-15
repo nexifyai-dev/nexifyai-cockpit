@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/[locale]/layout,_N_T_/[locale]/leistungen/layout,_N_T_/[locale]/leistungen/[slug]/layout,_N_T_/[locale]/leistungen/[slug]/page,_N_T_/en/leistungen/onlineshops"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/$d$locale/leistungen/$d$slug/__PAGE__",
+    "/$d$locale/leistungen/$d$slug",
+    "/$d$locale/leistungen",
+    "/$d$locale",
+    "/_index",
+    "/_head"
+  ]
+}

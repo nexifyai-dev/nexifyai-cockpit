@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/cockpit/layout,_N_T_/cockpit/projekte/layout,_N_T_/cockpit/projekte/page,_N_T_/cockpit/projekte"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/cockpit/projekte/__PAGE__",
+    "/cockpit/projekte",
+    "/cockpit",
+    "/_index",
+    "/_head"
+  ]
+}
