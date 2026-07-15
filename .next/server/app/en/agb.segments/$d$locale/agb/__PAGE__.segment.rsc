@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[84116,["/_next/static/chunks/15p6nsvce1mv6.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/08ul3b1j.ae95.js","/_next/static/chunks/0_yuv329n~q9s.js"],"LegalPage"]
-3:I[97367,["/_next/static/chunks/15p6nsvce1mv6.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"page":{"slug":"agb","title":"Terms & Conditions (B2B)","intro":"Contractual basis for services provided by NeXifyAI.","updated":"4 July 2026","sections":[{"heading":"1. Scope","paragraphs":["These terms apply to agreements with businesses. No consumer agreements are concluded."]},{"heading":"2. Pricing","paragraphs":["€999/day net. Excluding VAT. Reverse charge may apply for cross-border B2B services."]},{"heading":"3. AI Support","paragraphs":["AI accelerates work; responsibility remains with the developer."]},{"heading":"4. Liability","paragraphs":["Limited to contractually foreseeable damage."]},{"heading":"5. Governing Law","paragraphs":["Dutch law. Forum: seat of NeXifyAI."]}]},"lang":"en"}],[["$","script","script-0",{"src":"/_next/static/chunks/0_yuv329n~q9s.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vKk2H0KdAJlYczwobdWh3"}
-5:null

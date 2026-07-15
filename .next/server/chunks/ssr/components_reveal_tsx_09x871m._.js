@@ -1,3 +1,0 @@
-module.exports=[34360,a=>{"use strict";var b=a.i(87924),c=a.i(72131);function d({children:a,delay:e=0,className:f=""}){let g=(0,c.useRef)(null);return(0,c.useEffect)(()=>{let a=g.current;if(!a)return;let b=new IntersectionObserver(c=>{c.forEach(c=>{c.isIntersecting&&(a.classList.add("in-view"),b.disconnect())})},{threshold:.12});return b.observe(a),()=>b.disconnect()},[]),(0,b.jsx)("div",{ref:g,className:`reveal ${f}`,style:e?{transitionDelay:`${e}ms`}:void 0,children:a})}a.s(["Reveal",0,d,"RevealGroup",0,function({children:a,stagger:e=60,className:f=""}){return(0,b.jsx)("div",{className:f,children:c.Children.toArray(a).map((a,c)=>(0,b.jsx)(d,{delay:c*e,children:a},c))})}])}];
-
-//# sourceMappingURL=components_reveal_tsx_09x871m._.js.map
